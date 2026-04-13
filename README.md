@@ -1,5 +1,7 @@
 ## Sector: Energy
 
+> This project proposes a smart energy monitoring and communication system tailored to solve real electricity challenges in Sierra Leone.
+
 ### Problem Identification
 
 In Sierra Leone, the electricity system faces multiple interconnected challenges that significantly affect daily life and economic activities. The most critical issue is **unreliable power supply**, where electricity frequently goes off without notice. This lack of consistency disrupts businesses, especially those that depend on refrigeration, leading to food spoilage and financial losses. Online workers and small businesses also struggle to operate effectively.
