@@ -1,10 +1,9 @@
 # ⚡ Smart Energy Monitoring & Communication System (Sierra Leone)
 
 > A locally-driven solution designed to improve electricity reliability, transparency, and infrastructure monitoring using modern web technologies.
+This project proposes a smart energy monitoring and communication system tailored to solve real electricity challenges in Sierra Leone.
 
 ## Sector: Energy
-
-> This project proposes a smart energy monitoring and communication system tailored to solve real electricity challenges in Sierra Leone.
 
 ### Problem Identification
 
